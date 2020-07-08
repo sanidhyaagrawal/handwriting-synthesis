@@ -1,0 +1,122 @@
+﻿Q. 1
+What is communication? Also, write different types of communication.
+Ans.
+A process by which information is exchanged between individuals through a common system of symbols, signs, or behavior by verbal or non-verbal communication.
+Exchange of information, ideas, thoughts by verbal communication or non-verbal communication.
+Communication is a process of exchanging information, ideas, thoughts, feelings and emotions through speech, signals, writing, or behavior. In the communication process, a sender(encoder) encodes a message and then using a medium/channel sends it to the receiver (decoder) who decodes the message and after processing information, sends back appropriate feedback/reply using a medium/channel.
+Types of Communication-
+(a) Verbal communication-
+Verbal communication refers to the form of communication in which message is transmitted verbally; communication is done by word of mouth and a piece of writing. Objective of every communication is to have people understand what we are trying to convey.
+(b) Non-verbal communication-
+Nonverbal communication is the sending or receiving of wordless messages. We can say that communication other than oral and written, such as gesture, body language, posture, tone of voice or facial expressions, is called nonverbal communication. Nonverbal communication is all about the body language of speaker.
+Nonverbal communication helps receiver in interpreting the message received. Often, nonverbal signals reflects the situation more accurately than verbal messages. Sometimes nonverbal responses contradict verbal communication and hence affect the effectiveness of message.
+(c) Written communication-
+In written communication, written signs or symbols are used to communicate. A written message may be printed or hand written. In written communication message can be transmitted via email, letter, report, memo etc. Message, in written communication, is influenced by the vocabulary & grammar used, writing style, precision and clarity of the language used.
+Written Communication is most common form of communication being used in business. So, it is considered core among business skills.
+
+Q. 2
+Write 7 C’s of communication.
+Ans.
+1.Completeness - The communication must be complete. It should convey all facts required by the audience. The sender of the message must take into consideration the receiver’s mind set and convey the message accordingly
+2. Conciseness - Conciseness means wordiness, i.e, communicating what you want to convey in least possible words without forgoing the other C’s of communication. Conciseness is a necessity for effective communication. Concise communication has following features:
+It is both time-saving as well as cost-saving.
+It underlines and highlights the main message as it avoids using excessive and needless words.
+Concise communication provides short and essential message in limited words to the audience.
+Concise message is more appealing and comprehensible to the audience.
+Concise message is non-repetitive in nature.
+3. Consideration - Consideration implies “stepping into the shoes of others”. Effective communication must take the audience into consideration, i.e, the audience’s view points, background, mind-set, education level, etc. Make an attempt to envisage your audience, their requirements, emotions as well as problems. Ensure that the self-respect of the audience is maintained and their emotions are not at harm. Modify your words in message to suit the audience’s needs while making your message complete. Features of considerate communication are as follows:
+Emphasize the “you” approach.
+Empathize with the audience and exhibit interest in the audience. This will stimulate a positive reaction from the audience.
+Show optimism towards your audience. Emphasize on “what is possible” rather than “what is impossible”. Lay stress on positive words such as jovial, committed, thanks, warm, healthy, help, etc. 
+4. Clarity - Clarity implies emphasizing on a specific message or goal at a time, rather than trying to achieve too much at once. Clarity in communication has following features:
+It makes understanding easier.
+Complete clarity of thoughts and ideas enhances the meaning of message.
+Clear message makes use of exact, appropriate and concrete words.
+5. Concreteness - Concrete communication implies being particular and clear rather than fuzzy and general. Concreteness strengthens the confidence. Concrete message has following features:
+It is supported with specific facts and figures.
+It makes use of words that are clear and that build the reputation.
+Concrete messages are not misinterpreted.
+6. Courtesy - Courtesy in message implies the message should show the sender’s expression as well as should respect the receiver. The sender of the message should be sincerely polite, judicious, reflective and enthusiastic. Courteous message has following features:
+Courtesy implies taking into consideration both viewpoints as well as feelings of the receiver of the message.
+Courteous message is positive and focused at the audience.
+It makes use of terms showing respect for the receiver of message.
+It is not at all biased.
+7. Correctness - Correctness in communication implies that there are no grammatical errors in communication. Correct communication has following features:
+The message is exact, correct and well-timed.
+If the communication is correct, it boosts up the confidence level.
+Correct message has greater impact on the audience/readers.
+It checks for the precision and accurateness of facts and figures used in the message.
+It makes use of appropriate and correct language in the message.
+
+Q. 3
+What is effective communication?
+Ans.
+Definition: Effective communication is a process of exchanging ideas, thoughts, knowledge and information such that the purpose or intention is fulfilled in the best possible manner. In simple words, it is nothing but the presentation of views by the sender in a way best understood by the receiver.
+We can say that it generally involves;
+Sender: The person who initiates the process of communication by sending a message;
+Receiver: The one to whom the message is to be delivered.
+Content: Effective Communication
+Characteristics
+Skills
+Significance
+Barriers
+Characteristics of Effective Communication
+Just delivering a message is not enough; it must meet the purpose of the sender. Keeping this in mind, let us discuss the elements which make communication effective:
+Clear Message: The message which the sender wants to convey must be simple, easy to understand and systematically framed to retain its meaningfulness.
+Correct Message: The information communicated must not be vague or false in any sense; it must be free from errors and grammatical mistakes.
+Complete Message: Communication is the base for decision making. If the information is incomplete, it may lead to wrong decisions.
+Precise Message: The message sent must be short and concise to facilitate straightforward interpretation and take the desired steps.
+Reliability: The sender must be sure from his end that whatever he is conveying is right by his knowledge. Even the receiver must have trust on the sender and can rely on the message sent.
+Consideration of the Recipient: The medium of communication and other physical settings must be planned, keeping in mind the attitude, language, knowledge, education level and position of the receiver.
+Sender’s Courtesy: The message so drafted must reflect the sender’s courtesy, humbleness and respect towards the receiver.
+
+Q. 4
+What are barriers of communication? Explain, in detail.
+Ans.
+There are many reasons why interpersonal communications may fail. In many communications, the message may not be received exactly the way the sender intended and hence it is important that the communicator seeks feedback to check that their message is clearly understood. The skills of Active Listening, Clarification and Reflection, which we will discuss shortly, may help but the skilled communicator also needs to be aware of the barriers to effective communication. There exist many barriers to communication and these may occur at any stage in the communication process. Barriers may lead to your message becoming distorted and you therefore risk wasting both time and/or money by causing confusion and misunderstanding. Effective communication involves overcoming these barriers and conveying a clear and concise message. 
+Some common barriers to effective communication include:The use of jargon. Over-complicated or unfamiliar terms.
+Emotional barriers and taboos.
+Lack of attention, interest, distractions, or irrelevance to the receiver.
+Differences in perception and viewpoint.
+Physical disabilities such as hearing problems or speech difficulties.
+Physical barriers to non-verbal communication.
+Language differences and the difficulty in understanding unfamiliar accents.
+Expectations and prejudices which may lead to false assumptions or stereotyping. People often hear what they expect to hear rather than what is actually said and jump to incorrect conclusions.
+Cultural differences. The norms of social interaction vary greatly in different cultures, as do the way in which emotions are expressed. For example, the concept of personal space varies between cultures and between different social settings.
+
+Q. 5
+Write tips to improve non-verbal communication.
+Ans.
+1. Pay Attention to Nonverbal Signals-
+People can communicate information in numerous ways, so pay attention to things like eye contact, gestures, posture, body movements, and tone of voice. All of these signals can convey important information that is not put into words.
+By paying closer attention to other people's unspoken behaviors, you will improve your own ability to communicate nonverbally.
+2. Look for Incongruent Behaviors-
+If someone's words do not match their nonverbal behaviors, you should pay careful attention. For example, someone might tell you they are happy while frowning and staring at the ground.
+Research has shown that when words fail to match up with nonverbal signals, people tend to ignore what has been said and focus instead on unspoken expressions of moods, thoughts, and emotions. So when someone says one thing, but his or her body language seems to suggest something else, it can be useful to pay extra attention to those subtle nonverbal cues.
+3. Concentrate on Your Tone of Voice When Speaking-
+Your tone of voice can convey a wealth of information, ranging from enthusiasm to disinterest to anger.
+Start noticing how your tone of voice affects how others respond to you and try using your tone to emphasize ideas that you want to communicate.
+For example, if you want to show genuine interest in something, express your enthusiasm by using an animated tone of voice. Such signals not only convey your feelings about a topic; they can also help generate interest in the people listening to you speak.
+4. Use Good Eye Contact-
+Good eye contact is another essential nonverbal communication skill. When people fail to look others in the eye, it can seem as if they are evading or trying to hide something. On the other hand, too much eye contact can seem confrontational or intimidating.
+While eye contact is an important part of communication, it's important to remember that good eye contact does not mean staring fixedly into someone's eyes. How can you tell how much eye contact is correct?
+Some communication experts recommend intervals of eye contact lasting four to five seconds. Effective eye contact should feel natural and comfortable for both you and the person you are speaking with.
+5. Ask Questions About Nonverbal Signals-
+If you are confused about another person's nonverbal signals, don't be afraid to ask questions. A good idea is to repeat back your interpretation of what has been said and ask for clarification. An example of this might be, "So what you are saying is that..."
+Sometimes simply asking such questions can lend a great deal of clarity to a situation. For example, a person might be giving off certain nonverbal signals because he has something else on his mind. By inquiring further into his message and intent, you might get a better idea of what he is really trying to say.
+6. Use Signals to Make Communication More Meaningful-
+Remember that verbal and nonverbal communication work together to convey a message. You can improve your spoken communication by using body language that reinforces and supports what you are saying. This can be especially useful when making presentations or when speaking to a large group of people.
+For example, if your goal is to appear confident and prepared during a presentation, you will want to focus on sending nonverbal signals that ensure that others see you as self-assured and capable. Standing firmly in one place, shoulder back, and your weight balanced on both feet is a great way to strike a confident pose.
+7. Look at Signals as a Whole-
+Another important part of good nonverbal communication skills involves being able to take a more holistic approach to what a person is communicating. A single gesture can mean any number of things, or maybe even nothing at all.
+The key to accurately reading nonverbal behavior is to look for groups of signals that reinforce a common point. If you place too much emphasis on just one signal out of many, you might come to an inaccurate conclusion about what a person is trying to say.
+8. Consider the Context-
+When you are communicating with others, always consider the situation and the context in which the communication occurs. Some situations require more formal behaviors that might be interpreted very differently in any other setting.
+Consider whether or not nonverbal behaviors are appropriate for the context. If you are trying to improve your own nonverbal communication, concentrate on ways to make your signals match the level of formality necessitated by the situation.
+For example, the body language and nonverbal communication you utilize at work are probably very different from the sort of signals you would send on a casual Friday night out with friends. Strive to match your nonverbal signals to the situation to ensure that you are conveying the message you really want to send.
+9. Be Aware That Signals Can be Misread-
+According to some, a firm handshake indicates a strong personality while a weak handshake is taken as a lack of fortitude. This example illustrates an important point about the possibility of misreading nonverbal signals. A limp handshake might actually indicate something else entirely, such as arthritis.
+Always remember to look for groups of behavior. A person's overall demeanor is far more telling than a single gesture viewed in isolation.
+10. Practice, Practice, Practice-
+Some people just seem to have a knack for using nonverbal communication effectively and correctly interpreting signals from others. These people are often described as being able to "read people."
+In reality, you can build this skill by paying careful attention to nonverbal behavior and practicing different types of nonverbal communication with others. By noticing nonverbal behavior and practicing your own skills, you can dramatically improve your communication abilities.

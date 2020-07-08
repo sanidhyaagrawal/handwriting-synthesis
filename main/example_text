@@ -1,0 +1,43 @@
+Font Id- 32
+Created By- Username
+Date- 2 Jan 2019
+
+Note- 
+Settings used to create this render are - 
+Randoness- Low
+@Line1 = Font Id- 32
+@Line2= Creted By- Usernmae
+@Line3= Date- 2 Jan 2019
+@Max Width- 45
+@Spaceing Between Words- 30 
+@Spaceing Charaters- 45
+@Randones between lines and characters- +/- 10
+@Distance from left side margine- +/- 56
+@Page Skew- 0 (Degress)
+@Page Crop- 0
+
+If it looks a little shady, Ary tweaking the setting when in Render 'Text section'
+You can customize all of these in as your preference in 'Render Text' section, They'll be illustrated quite good, don't worry if it looks too much.
+ 
+Q. 1
+How do I create a question tag like this?
+Ans.
+Tags 'Q.' and 'Ans.' are keywords that are automatically shifted on the left side of margin.
+Important- Don't forget to move to the next line(Press Enter) after using these tags.
+
+Q. 2
+How do I create a numbered list?
+Ans.
+1. If the first thing to appear in a line is a number it is automatically shifted to the left of the margin
+2.0 If you don't want the first character to shifted-
+2.a) Add a '|' before the number, Example-
+1500 lines of code are behind this software (Website excluded)
+|1500 lines of code are behind this software (Website excluded)
+
+Q. 2
+What are the mathematic features available?
+Ans.
+Text between two '^' is shifted as power- A
+Example- 10 ^2^ + 100 ^(-12/13)^ E=mc ^2^
+
+You can explore the 'Example' section for more examples about what all can be done!
