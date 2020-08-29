@@ -42,12 +42,12 @@ def a4toblocks(images,templateid):
     #image= image[220:360]
     #cv2.imshow('Hello',image)
 
-        w=242   
-        h=269
-        imagec= image[h:h+65,w:w+50]
+        w=165   
+        h=220
+        imagec= image[h:h+85,w:w+70]
         for j in range(0,11):
             i=0
-            w=242
+            w=165
             for i in range(0,12):
                 counter = counter + 1
                 if(counter%4==0):
@@ -55,8 +55,8 @@ def a4toblocks(images,templateid):
                     name=chr(assci)
                     k=0
                 
-                imagec= image[h:h+65,w:w+50] #[Hight,Width]
-                w=w+106
+                imagec= image[h:h+85,w:w+70] #[Hight,Width]
+                w=w+111
                 
 
                 
@@ -93,7 +93,7 @@ def a4toblocks(images,templateid):
                     k = k+1
                 except:
                     pass    
-            h=h+113
+            h=h+183
 
         w=242   
         h=270
